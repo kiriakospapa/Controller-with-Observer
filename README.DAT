@@ -3,4 +3,4 @@ of our system through the controller in order to have overshoot < 10% and
 settling time < 1 second. The role of the observer is to assist the whole 
 process and have better results. For this reason we modify our system a little.
 
-* Please take into account that the comments are in Greek are it was a project for my unviersity*
+#Please take into account that the comments are in Greek are it was a project for my unviersity#
